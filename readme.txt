@@ -4,7 +4,7 @@
 A Matlab MEX file, coded in C++, that models intransitive competition among species captured by competitive outcomes matrices (i.e., tournaments). 
 This file includes code by Takuji Nishimura and Makoto Matsumoto, included in accordance with the statement provided in the Appendix, below.   
 
-[1.2] Tournament list propoertiest (tournlistproperties.cpp)
+[1.2] Tournament list propoerties (tournlistproperties.cpp)
 A Matlab MEX file, coded in C++, that determines some topological properties of competitive outcomes matrices (i.e., tournaments).
 
 [2] APPENDIX
