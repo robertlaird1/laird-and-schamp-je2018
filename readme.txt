@@ -9,7 +9,7 @@ A Matlab MEX file, coded in C++, that determines some topological properties of 
 
 [2] LICENSE
 
-intransitivity.cpp [lines 1-315; other lines included in accordance with the statement provided in the Appdendix, below]
+intransitivity.cpp [lines 1-321; other lines included in accordance with the statement provided in the Appdendix, below]
 tournlistproperties.cpp [all lines]
 
 Supplemental code accompanying Laird & Schamp (Journal of Ecology, in press):
