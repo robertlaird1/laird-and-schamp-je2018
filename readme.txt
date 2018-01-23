@@ -7,7 +7,7 @@ This file includes code by Takuji Nishimura and Makoto Matsumoto, included in ac
 [1.2] Tournament list properties (tournlistproperties.cpp)
 A Matlab MEX file, coded in C++, that determines some topological properties of competitive outcomes matrices (i.e., tournaments).
 
-[2] LICENSE
+[2] LICENSE INFORMATION
 
 intransitivity.cpp [lines 1-321; other lines included in accordance with the statement provided in the Appdendix, below]
 tournlistproperties.cpp [all lines]
